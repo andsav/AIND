@@ -1,0 +1,3 @@
+[submodule "1-Sudoku"]
+	path = 1-Sudoku
+	url = https://github.com/andsav/AIND-Sudoku
