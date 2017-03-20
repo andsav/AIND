@@ -4,3 +4,6 @@
 [submodule "2-Isolation"]
 	path = 2-Isolation
 	url = https://github.com/andsav/AIND-isolation
+[submodule "3-Planning"]
+	path = 3-Planning
+	url = https://github.com/andsav/AIND-Planning
