@@ -7,3 +7,6 @@
 [submodule "3-Planning"]
 	path = 3-Planning
 	url = https://github.com/andsav/AIND-Planning
+[submodule "4-Recognizer"]
+	path = 4-Recognizer
+	url = https://github.com/andsav/AIND-Recognizer
