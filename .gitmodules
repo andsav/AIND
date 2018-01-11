@@ -10,3 +10,12 @@
 [submodule "4-Recognizer"]
 	path = 4-Recognizer
 	url = https://github.com/andsav/AIND-Recognizer
+[submodule "5-CNN"]
+	path = 5-CNN
+	url = https://github.com/andsav/AIND2-CNN.git
+[submodule "6-RNN"]
+	path = 6-RNN
+	url = https://github.com/andsav/AIND2-RNN.git
+[submodule "7-NLP-Capstone"]
+	path = 7-NLP-Capstone
+	url = https://github.com/andsav/AIND2-NLP-Capstone.git
